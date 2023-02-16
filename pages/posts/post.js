@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function CatPost() {
+export default function Post() {
 	return (
 		<>
 			<h1>Cat Post</h1>
