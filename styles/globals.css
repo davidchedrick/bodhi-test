@@ -105,3 +105,39 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.test-container{
+  
+  background-color: red;
+  border: 5px solid yellow;
+  height: 500px
+
+}
+
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.checkout-form {
+  display: flex;
+}
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  gap: 35px
+}
+
+.register {
+  border: 2px solid white;
+  background-color: rgb(13, 233, 104);
+  height: 50px;
+  width: 50px;
+  /* display: flex; */
+  /* flex-direction: row; */
+}  
